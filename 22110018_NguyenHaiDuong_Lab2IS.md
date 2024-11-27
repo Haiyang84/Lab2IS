@@ -159,7 +159,6 @@ curl http://192.168.1.100
 
 
 
-<img width="221" alt="{A7FCBFAD-F427-4340-A5B5-CED36DD0819F}" src="https://github.com/user-attachments/assets/260cbebd-1d19-45b4-ba82-6919f24a7dba">
 
 
 
