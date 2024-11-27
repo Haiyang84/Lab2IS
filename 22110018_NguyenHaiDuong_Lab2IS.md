@@ -15,11 +15,11 @@ Setting up the router on VMWARE
 network:
   version: 2
   ethernets:
-    ens33:  # Card mạng kết nối Subnet 1
+    ens33:  
       addresses:
         - 192.168.1.1/24
       dhcp4: no
-    ens34:  # Card mạng kết nối Subnet 2
+    ens34:  
       addresses:
         - 192.168.2.1/24
       dhcp4: no
